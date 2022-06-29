@@ -6,8 +6,8 @@
 - 🥳 Fun Fact : I code everyday
 
 # Language
- -Java and kotlin for android developer
- -workind on dart for flutter multiplatform apps
+- Java and kotlin for android developer
+- workind on dart for flutter multiplatform apps
 
 <!---
 neeleshsahu290/neeleshsahu290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
