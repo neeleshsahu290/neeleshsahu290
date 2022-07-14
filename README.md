@@ -9,9 +9,11 @@
 
 # Language
 
-- 🐴 Java and kotlin for android developer
-- 🧞‍♂️ working on dart for flutter multiplatform apps
-- Flutter :[<img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="15"/>](https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png)  ,  [<img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="65"/>](https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg)
+- Flutter for Multiplatform : [<img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="15"/>](https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png)  ,  [<img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="65"/>](https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg)
+- Kotlin and Java for native Apps : [<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="15"/>](https://cdn.worldvectorlogo.com/logos/kotlin-1.svg) ,  [<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="15"/>](https://cdn.worldvectorlogo.com/logos/java-4.svg)
+
+
+
 
 
 
