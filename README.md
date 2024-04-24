@@ -3,7 +3,7 @@
 # About Me
 
 - 🙏 Hello, I’m neelesh Sahu
-- 👀 Currently working as a Android developer at I Createwebtech
+- 👀 Currently working as a Software developer at Tailnode Technology
 - 🎉 Connect me on LinkedIn Neelesh Sahu
 - 🥳 Fun Fact : I code everyday
 
